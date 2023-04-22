@@ -1468,6 +1468,19 @@
 	  right: 32px;
 	}
 
+	#scrollUp{
+		bottom: 40px;
+		right: 20px;
+		width: 35px;
+		height: 35px;
+    line-height: 35px;
+	}
+
+	.up-arrow{
+		width: 16px;
+    height: 24px;
+	}
+
 }
 
 @media (max-width: 400px) {
